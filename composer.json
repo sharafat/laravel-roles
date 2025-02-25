@@ -27,7 +27,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/sharafat/seedster"
-        },
+        }
     ],
     "require": {
         "php": "^7.2|^8.0.2|^8.1",
